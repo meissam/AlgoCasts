@@ -19,7 +19,6 @@ function palindrome(str) {
             else{
                 continue;
             }
-        
     }
 
     return isPalindrome;
